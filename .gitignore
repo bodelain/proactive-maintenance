@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Project outputs (tracked separately or regenerated)
+assets/*.png
+assets/*.joblib
+
+# Data (large files — track with Git LFS if needed)
+data/*.csv
+data/*.xlsx
+data/*.h5
+data/*.mat
+
+# Reports (generated artifacts)
+report/*.pdf
