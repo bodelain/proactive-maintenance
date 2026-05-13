@@ -47,3 +47,6 @@ data/*.mat
 
 # Reports (generated artifacts)
 report/*.pdf
+
+# Office temp/lock files
+~$*
